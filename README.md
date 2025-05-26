@@ -1,4 +1,5 @@
-## Ex.No:12 Design an application that draws basic graphical primitives on the screen.
+# Ex.No:12 Design an application that draws basic graphical primitives on the screen.
+## DATE: 15/04/2025
 ## AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
